@@ -32,5 +32,5 @@ Before you begin, ensure you have the following tools installed on your system:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/shyamsundar-24-1e/spotify-clone.git
+   git clone https://github.com/shyamsundar-24-1/spotify-clone.git
    cd spotify-clone
